@@ -1,14 +1,6 @@
 <h1 align="center">Hola, mi nombre es Gabriel Pérez 👋</h1>
 <h3 align="center">Programador junior</h3>
 
-<h3 align="left">Contactame:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabrielpr93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielpr93" height="30" width="40" /> Linkedin</a>
-</p>
-<p align="left">
-<a href="mailto:gabrielpr93@hotmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gabriel Pérez Rodríguez" height="30" width="40" />gabrielpr93@hotmail.com</a>
- </p>
-
 
 <h3 align="left">Tecnologías:</h3>
 <p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -38,4 +30,14 @@ ___
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+
+<h3 align="left">Contactame:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gabrielpr93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielpr93" height="30" width="40" /> Linkedin</a>
+</p>
+<p align="left">
+<a href="mailto:gabrielpr93@hotmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gabriel Pérez Rodríguez" height="30" width="40" />gabrielpr93@hotmail.com</a>
+ </p>
+
 
